@@ -1,0 +1,16 @@
+{
+  "name": "improved-octo-sniffle",
+  "version": "1.0.0",
+  "description": "First electron js desktop app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.1.2",
+    "electron-packager": "^17.1.2"
+  }
+}
