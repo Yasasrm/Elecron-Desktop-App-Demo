@@ -3,7 +3,7 @@
 
 # About The Project
 
-This is a simple Desktopg app build using Electron JS framework.
+This is a simple Desktop app build using Electron JS framework.
 
 # Built With
 
