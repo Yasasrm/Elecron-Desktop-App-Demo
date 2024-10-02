@@ -42,5 +42,5 @@ Replace ***win32*** with ***darwin*** for *macOS* or ***linux*** for *Linux*, an
 # Contact
 
 Yasas Maddunage - yasasrm@gmail.com
-Project Link: https://github.com/Yasasrm/walkie-talkie
+Project Link: https://github.com/Yasasrm/Elecron-Desktop-App-Demo
 
